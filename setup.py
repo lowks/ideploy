@@ -6,4 +6,5 @@ setup(name='ideploy',
       version='0.1',
       description='ideploy',
       author='Joe Jasinski',
+      url='https://github.com/JoeJasinski/ideploy/',
      )
